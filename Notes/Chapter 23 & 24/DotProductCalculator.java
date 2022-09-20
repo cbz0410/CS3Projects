@@ -27,13 +27,13 @@ public class DotProductCalculator
         Scanner fileReader = new Scanner(new File("vectors.in"));
         ArrayList<Vector> queue = new ArrayList<Vector>(); //> list of vectors being processed
 
-        //> loop controlling the whol vector being processed
+        //> loop controlling the current vector being processed
         while(fileReader.hasNextLine())
         {
             Scanner vectorReader = new Scanner(fileReader.nextLine());
             ArrayList<Double> vectorElements = new ArrayList<Double>(); //> current vector elements
             
-            //> loop controlling the elements of the vector bieng processed
+            //> loop controlling the elements of the current vector being processed
             while(vectorReader.hasNextDouble())
             {
                 vectorElements.add(vectorReader.nextDouble());
