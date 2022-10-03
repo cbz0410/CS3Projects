@@ -1,3 +1,8 @@
+/* Goopert
+ * 1A Malloy
+ * 8/18/22
+ * Program Description: Solution to FRQ subpart in class */
+
 public class HorseBarnA {
     public static void main(String[] args) {
         //assume requisitie code is here...

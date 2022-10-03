@@ -1,3 +1,8 @@
+/* Goopert
+ * 1A Malloy
+ * 8/18/22
+ * Program Description: In-class notes for chapter 18 */
+
 public class Chapter18Notes {
     public static void main(String[] args) {
         Circle[] circles = new Circle[100];

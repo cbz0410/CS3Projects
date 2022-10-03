@@ -1,7 +1,7 @@
 /* Goopert
  * 1A Malloy
  * 9/19/22
- * Program Discrioption: Uses a scanner and calculate the dot product of two vectors, unlimited in dimension 
+ * Program Description: Uses a scanner and calculate the dot product of two vectors, unlimited in dimension 
  *                   IE: a • b = <a_1, a_2, ..., a_n> • <b_1, b_2, ..., b_n> 
  *                             = (a_1 * b_1) + (a_2 * b_2) + ... + (a_n * b_n) 
  * 

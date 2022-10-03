@@ -1,7 +1,7 @@
 /* Goopert
  * 1A Malloy
  * 9/13/22
- * Program Discrioption: Class practice reading input from a file */
+ * Program Description: Class practice reading input from a file */
 
 import java.io.*;
 import java.util.*;
